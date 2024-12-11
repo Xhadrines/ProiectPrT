@@ -23,7 +23,7 @@ Pași pentru instalarea și configurarea proiectului:
 1. Clonează repository-ul folosind:
 
 ```bash
-git clone
+git clone https://github.com/Xhadrines/ProiectPrT.git
 ```
 
 2. Dacă ai descărcat un fișier arhivat, dezarhivează-l.
