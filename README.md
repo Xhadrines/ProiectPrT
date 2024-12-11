@@ -1,6 +1,6 @@
 # Analiza Codului Sursă
 
-**Autor:** Sandru Alexandru
+**Autor:** Șandru Alexandru
 
 ## Descriere
 Acesta este un proiect pentru analiza codului sursă Java, utilizând expresii regulate, care include verificarea unor probleme comune, cum ar fi:
