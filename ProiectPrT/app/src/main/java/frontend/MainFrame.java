@@ -101,7 +101,7 @@ public class MainFrame extends JFrame {
     }
 
     /**
-     * Adauga ascultatori pentru butoane si lista derulanta.
+     * Adauga actiuni pentru butoane si lista derulanta.
      */
     private void addListeners() {
         loadFileButton.addActionListener(e -> loadFile()); // Buton pentru incarcarea fisierului
