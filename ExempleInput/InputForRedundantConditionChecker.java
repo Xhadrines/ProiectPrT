@@ -2,11 +2,11 @@ public class TestRedundantConditions {
     public void checkRedundant() {
         boolean flag = true;
 
-        if (flag == true) {
+        if (flag) {
             System.out.println("Flag is true");
         }
 
-        if (flag != false) {
+        if (!flag) {
             System.out.println("Flag is not false");
         }
 
